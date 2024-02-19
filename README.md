@@ -4,7 +4,7 @@ This repository contains setup instructions, a Jupyter notebook, and an associat
 
 
 ## Setup
-1. If you've not got a recent-ish version of Python 3 installed, download it from [here](https://www.python.org/downloads/) and install it before continuing
+1. If you've not got a recent-ish version of Python 3 installed, download it from [here](https://www.python.org/downloads/) and install it before continuing.  *Make sure to tell the installer to [add Python to the PATH](https://docs.python.org/3/using/windows.html#windows-full)*
 2. Clone this repository (`git clone https://github.com/kpresler/eda-demo` from Git Bash (Windows) or Terminal (Linux / Mac)) _or_ if you've not got Git installed, click the green `<> Code` button above, then "Download ZIP" & extract the zip file)
 3. Install the Python packages we're going to use.  First, to open up an environment we can use for installing packages:
     * Windows with Git installed: right-click in the folder you downloaded the code to, and select Git Bash Here
